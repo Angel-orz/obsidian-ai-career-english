@@ -4,7 +4,7 @@ topic: Supervised Learning
 date: 2026-06-17
 ---
 
-# 🎧 Listening Task — 0617
+# Listening Task — Supervised Learning
 
 ## Recommended Content
 
@@ -18,7 +18,7 @@ date: 2026-06-17
 
 ---
 
-## 🎯 What to Listen For
+## What to Listen For
 
 1. **How Andrew defines supervised learning** — He uses the house price prediction example. Pay attention to how he transitions from the simple example to the formal definition.
 
@@ -34,7 +34,7 @@ date: 2026-06-17
 
 ---
 
-## 🔑 Key Vocabulary to Catch
+## Key Vocabulary to Catch
 
 | Term | Clue to listen for |
 |------|-------------------|
@@ -46,7 +46,7 @@ date: 2026-06-17
 
 ---
 
-## 📝 After Listening
+## After Listening
 
 Write down:
 1. One sentence summarizing supervised learning in your own words

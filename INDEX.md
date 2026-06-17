@@ -13,7 +13,6 @@
 | Sessions Completed | 1 |
 | Topics Covered | 1 |
 | Vocabulary Terms | 5 |
-| Interview Questions | 1 |
 | Started | 2026-06-17 |
 
 ---
@@ -22,20 +21,23 @@
 
 | Date | Topic | Category | Daily Notes |
 |------|-------|----------|-------------|
-| 2026-06-17 | [[Supervised Learning]] | ML Foundations | [[Daily_Notes_0617]] |
+| 2026-06-17 | [[Supervised Learning]] | ML Foundations | [[Supervised Learning]] (07_daily_notes) |
 
 ---
 
-## 📚 Cumulative Library Stats
+## 📚 Knowledge Base
 
-| Collection | Count | Last Updated |
-|------------|-------|--------------|
-| Vocabulary Terms | 5 | 2026-06-17 |
-| Concepts | 1 | 2026-06-17 |
-| Meeting Phrase Files | 5 | 2026-06-17 |
-| Interview Questions | 1 | 2026-06-17 |
-| German AI Terms | 5 | 2026-06-17 |
-| German Meeting Phrases | 3 | 2026-06-17 |
+| Folder | Files | Description |
+|--------|-------|-------------|
+| 01_vocabulary | 5 | One file per word |
+| 02_concepts | 1 | One file per concept |
+| 03_speaking | 1 | One file per topic |
+| 04_meetings | 1 | One file per topic |
+| 05_interview | 1 | One file per topic |
+| 06_german_workplace | 1 | One file per topic |
+| 07_daily_notes | 1 | One file per topic |
+| listening_task | 1 | One file per topic |
+| speaking_task | 1 | One file per topic |
 
 ---
 
@@ -82,6 +84,8 @@
 - [Interview Bank](AI-knowledge-cc/05_interview/)
 - [German Phrase Collection](AI-knowledge-cc/06_german_workplace/)
 - [Daily Notes](AI-knowledge-cc/07_daily_notes/)
+- [Listening Tasks](AI-knowledge-cc/listening_task/)
+- [Speaking Tasks](AI-knowledge-cc/speaking_task/)
 
 ---
 

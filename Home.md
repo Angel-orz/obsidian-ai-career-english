@@ -34,11 +34,15 @@ LIMIT 7
 
 | Section | Link |
 |---------|------|
-| 📅 Today's Lesson | [[Daily_Notes_0617\|Daily Notes]] |
 | 📝 Vocabulary | [[AI-knowledge-cc/01_vocabulary/]] |
 | 💡 Concepts | [[AI-knowledge-cc/02_concepts/]] |
-| 🎤 Interview Bank | [[AI-knowledge-cc/05_interview/]] |
-| 🇩🇪 German Phrases | [[AI-knowledge-cc/06_german_workplace/]] |
+| 🗣️ Speaking | [[AI-knowledge-cc/03_speaking/Supervised Learning\|Supervised Learning]] |
+| 💼 Meetings | [[AI-knowledge-cc/04_meetings/Supervised Learning\|Supervised Learning]] |
+| 🎤 Interview | [[AI-knowledge-cc/05_interview/Supervised Learning\|Supervised Learning]] |
+| 🇩🇪 German | [[AI-knowledge-cc/06_german_workplace/Supervised Learning\|Supervised Learning]] |
+| 📅 Daily Notes | [[AI-knowledge-cc/07_daily_notes/Supervised Learning\|Supervised Learning]] |
+| 🎧 Listening | [[AI-knowledge-cc/listening_task/Supervised Learning\|Supervised Learning]] |
+| 🎙️ Speaking Task | [[AI-knowledge-cc/speaking_task/Supervised Learning\|Supervised Learning]] |
 | 📚 All Sessions | [[INDEX]] |
 
 ---
@@ -47,7 +51,7 @@ LIMIT 7
 
 > Review schedule: Day+1, Day+3, Day+7, Day+14
 
-- [ ] Supervised Learning — review today (2026-06-17)
+- [ ] [[Supervised Learning]] — review today (2026-06-17)
 - [ ] [[Labeled Data]] — review today
 - [ ] [[Training Set]] — review today
 - [ ] [[Feature]] — review today

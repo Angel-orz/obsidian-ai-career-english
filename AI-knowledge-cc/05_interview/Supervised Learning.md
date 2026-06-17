@@ -3,11 +3,21 @@ topic: Supervised Learning
 date: 2026-06-17
 ---
 
-# Strong Answer — Supervised Learning
+# Interview — Supervised Learning
+
+## Question
+
+**"Explain supervised learning. What are its main strengths and limitations? When would you choose it over unsupervised learning?"**
+
+## 30-Second Answer
+
+> ⚡ Quick, concise answer for initial screening or when time is limited.
+
+"Supervised learning is a machine learning paradigm where we train models on labeled data — data where each example has both input features and a known correct output. The model learns to map inputs to outputs by minimizing prediction error. It's great when you have abundant labeled data and a well-defined target, like classifying emails as spam or predicting house prices. The main limitation is the cost of creating labeled datasets. You choose supervised learning when you have a specific target to predict; you use unsupervised learning when you're exploring data patterns without predefined labels, like customer segmentation."
+
+## Strong Answer
 
 > 💪 Detailed, comprehensive answer for on-site or deep-dive interviews.
-
----
 
 "Supervised learning is one of the three main paradigms of machine learning, alongside unsupervised and reinforcement learning. At its core, it's about learning a function `f(x) = y` from labeled training data, where `x` represents input features and `y` is the target output we want to predict.
 
@@ -34,9 +44,29 @@ Choose unsupervised learning when you're exploring data without predefined targe
 
 A concrete decision framework: if your problem statement contains 'predict X' where X is measurable and you have historical examples of X, it's likely supervised learning. If your problem statement is 'find patterns in this data' without a specific target, it's unsupervised."
 
----
+## Common Mistakes
+
+### 1. Confusing supervised with unsupervised learning
+- ❌ *Wrong:* "Supervised learning finds patterns without labels" — that's unsupervised learning
+- ✅ *Fix:* Always emphasize "labeled data" as the defining characteristic
+
+### 2. Not mentioning the data requirement
+- ❌ *Wrong:* Focusing only on algorithms without addressing the practical challenge of obtaining labeled data
+- ✅ *Fix:* Always mention data labeling as the main bottleneck — interviewers want practical awareness
+
+### 3. Vague about evaluation
+- ❌ *Wrong:* Saying "the model gets better" without explaining how we measure improvement
+- ✅ *Fix:* Mention specific metrics: accuracy for classification, MSE/MAE for regression, and the role of validation sets
+
+### 4. Ignoring overfitting
+- ❌ *Wrong:* Describing supervised learning as perfect pattern matching
+- ✅ *Fix:* Acknowledge the bias-variance tradeoff and the need for regularization and proper data splits
+
+### 5. Not giving concrete examples
+- ❌ *Wrong:* Staying abstract throughout the answer
+- ✅ *Fix:* Lead with spam detection, house price prediction, or medical diagnosis — concrete examples demonstrate real understanding
 
 ## Related
-- [[Question_0617]]
-- [[Answer_30sec_0617]]
-- [[Mistakes_0617]]
+- [[Supervised Learning]] (02_concepts)
+- [[Supervised Learning]] (03_speaking)
+- [[Overfitting]]

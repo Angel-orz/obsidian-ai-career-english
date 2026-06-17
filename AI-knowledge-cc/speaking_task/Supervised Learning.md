@@ -5,7 +5,7 @@ date: 2026-06-17
 duration: 1-2 minutes
 ---
 
-# 🎙️ Speaking Task — 0617
+# Speaking Task — Supervised Learning
 
 ## Topic: Explain Supervised Learning to a Non-Technical Colleague
 
@@ -13,7 +13,7 @@ duration: 1-2 minutes
 
 ---
 
-## 🎯 Scenario
+## Scenario
 
 Imagine you're in a meeting with a product manager in a German tech company. She asks:
 
@@ -23,7 +23,7 @@ Your task: Explain supervised learning clearly, using an analogy, without jargon
 
 ---
 
-## 📋 Key Points to Cover
+## Key Points to Cover
 
 1. **Simple definition** — "A way for computers to learn from examples"
 2. **Analogy** — Use the "child learning with flashcards" analogy or create your own
@@ -33,7 +33,7 @@ Your task: Explain supervised learning clearly, using an analogy, without jargon
 
 ---
 
-## 🎤 Recording Instructions
+## Recording Instructions
 
 1. Record yourself using your phone or computer
 2. Speak for 1-2 minutes
@@ -43,7 +43,7 @@ Your task: Explain supervised learning clearly, using an analogy, without jargon
 
 ---
 
-## ✅ Self-Evaluation Checklist
+## Self-Evaluation Checklist
 
 | Criteria | Yes | Needs Work |
 |----------|-----|------------|
@@ -58,7 +58,7 @@ Your task: Explain supervised learning clearly, using an analogy, without jargon
 
 ---
 
-## 🔄 Improvement Plan
+## Improvement Plan
 
 After self-evaluation, record again. Compare the two recordings.
 
@@ -69,8 +69,8 @@ After self-evaluation, record again. Compare the two recordings.
 
 ---
 
-## 💡 Tips
+## Tips
 
 - Start with: *"Supervised learning is actually quite simple — it's like..."*
 - End with: *"So in short, the better our labeled data, the better our model will perform."*
-- If you get stuck, use the [[Buying Time]] phrases
+- If you get stuck, use the [[Supervised Learning]] (04_meetings — Buying Time) phrases

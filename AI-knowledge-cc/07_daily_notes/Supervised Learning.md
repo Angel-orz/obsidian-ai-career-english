@@ -4,13 +4,11 @@ topic: Supervised Learning
 date: 2026-06-17
 ---
 
-# Daily Notes — 0617: Supervised Learning
+# Daily Notes — Supervised Learning
 
-**Date:** 2026-06-17
+## 2026-06-17 — Session Notes
 
----
-
-## 📝 Vocabulary Learned
+### 📝 Vocabulary Learned
 
 - [ ] [[Labeled Data]]
 - [ ] [[Training Set]]
@@ -18,9 +16,7 @@ date: 2026-06-17
 - [ ] [[Loss Function]]
 - [ ] [[Overfitting]]
 
----
-
-## 💡 Concepts Learned
+### 💡 Concepts Learned
 
 | Concept | Understanding Level (1-5) | Notes |
 |---------|---------------------------|-------|
@@ -29,52 +25,40 @@ date: 2026-06-17
 | Train/Validation/Test Split | | |
 | Gradient Descent (intuition) | | |
 
----
-
-## 🎧 Listening Practice
+### 🎧 Listening Practice
 
 | Source | Topic | Duration | Key Takeaways |
 |--------|-------|----------|---------------|
 | | | | |
 
----
-
-## 🗣️ Speaking Practice
+### 🗣️ Speaking Practice
 
 | Exercise | Completed | Self-Rating (1-5) |
 |----------|-----------|-------------------|
-| [[Supervised Learning_30-Second]] | ⬜ | |
-| [[Supervised Learning_60-Second]] | ⬜ | |
+| [[Supervised Learning]] (03_speaking — 30-Second) | ⬜ | |
+| [[Supervised Learning]] (03_speaking — 60-Second) | ⬜ | |
 
----
-
-## 🇩🇪 German Practice
+### 🇩🇪 German Practice
 
 | Exercise | Completed | Notes |
 |----------|-----------|-------|
-| [[German AI Terms]] | ⬜ | |
-| [[German Meeting Phrases]] | ⬜ | |
-| [[Scenario_0617]] | ⬜ | |
+| [[Supervised Learning]] (06_german_workplace — AI Terms) | ⬜ | |
+| [[Supervised Learning]] (06_german_workplace — Meeting Phrases) | ⬜ | |
+| [[Supervised Learning]] (06_german_workplace — Scenario) | ⬜ | |
 
----
-
-## ⚠️ Difficulties
+### ⚠️ Difficulties
 
 - 
 
----
-
-## 💭 Reflection
+### 💭 Reflection
 
 *What went well today? What would I do differently? What should I review tomorrow?*
 
 - 
 
----
-
-## 📅 Next Steps
+### 📅 Next Steps
 
 - [ ] Review today's vocabulary (spaced repetition: tomorrow, 3 days, 7 days)
-- [ ] Complete [[Listening_Task_0617]]
-- [ ] Record and review [[Speaking_Task_0617]]
-- [ ] Preview tomorrow's topic: Unsupervised Learning
+- [ ] Complete [[Supervised Learning]] (listening_task)
+- [ ] Record and review [[Supervised Learning]] (speaking_task)
+- [ ] Preview next topic: Unsupervised Learning
