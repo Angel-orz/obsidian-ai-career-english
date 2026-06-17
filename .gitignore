@@ -1,0 +1,31 @@
+# .gitignore for Obsidian AI Career English Vault
+
+# Obsidian workspace (personal settings, not shared)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins-migration.json
+.obsidian/hotkeys.json
+.obsidian/templates.json
+.obsidian/starred.json
+.obsidian/graph.json
+.obsidian/text-expander.json
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Inbox (personal drafts, not shared)
+inbox/*
+!inbox/.gitkeep
