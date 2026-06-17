@@ -1,3 +1,9 @@
+---
+tags: [daily-notes, day-001]
+topic: Supervised Learning
+date: 2026-06-17
+---
+
 # Daily Notes — Day 001: Supervised Learning
 
 **Date:** 2026-06-17
@@ -6,11 +12,11 @@
 
 ## 📝 Vocabulary Learned
 
-- [ ] Labeled Data / 标注数据 / Beschriftete Daten
-- [ ] Training Set / 训练集 / Trainingsdatensatz
-- [ ] Feature / 特征 / Merkmal
-- [ ] Loss Function / 损失函数 / Verlustfunktion
-- [ ] Overfitting / 过拟合 / Überanpassung
+- [ ] [[Labeled Data]]
+- [ ] [[Training Set]]
+- [ ] [[Feature]]
+- [ ] [[Loss Function]]
+- [ ] [[Overfitting]]
 
 ---
 
@@ -18,7 +24,7 @@
 
 | Concept | Understanding Level (1-5) | Notes |
 |---------|---------------------------|-------|
-| Supervised Learning | | |
+| [[Supervised Learning]] | | |
 | Classification vs Regression | | |
 | Train/Validation/Test Split | | |
 | Gradient Descent (intuition) | | |
@@ -37,8 +43,8 @@
 
 | Exercise | Completed | Self-Rating (1-5) |
 |----------|-----------|-------------------|
-| 30-second version | ⬜ | |
-| 60-second version | ⬜ | |
+| [[30-Second Version]] | ⬜ | |
+| [[60-Second Version]] | ⬜ | |
 
 ---
 
@@ -46,9 +52,9 @@
 
 | Exercise | Completed | Notes |
 |----------|-----------|-------|
-| 5 AI terms pronunciation | ⬜ | |
-| 3 meeting phrases | ⬜ | |
-| Workplace scenario | ⬜ | |
+| [[German AI Terms]] | ⬜ | |
+| [[German Meeting Phrases]] | ⬜ | |
+| [[German Workplace Scenario]] | ⬜ | |
 
 ---
 
@@ -69,6 +75,6 @@
 ## 📅 Next Steps
 
 - [ ] Review today's vocabulary (spaced repetition: tomorrow, 3 days, 7 days)
-- [ ] Complete the listening task
-- [ ] Record and review speaking exercise
+- [ ] Complete [[Listening Task Day 001]]
+- [ ] Record and review [[Speaking Task Day 001]]
 - [ ] Preview tomorrow's topic: Unsupervised Learning

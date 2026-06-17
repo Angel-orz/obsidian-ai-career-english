@@ -39,25 +39,13 @@ Use the validation set to monitor performance. If validation error starts increa
 ### Step 6: Test
 Evaluate on the test set exactly once. This gives the unbiased estimate of real-world performance.
 
-## Real-world Example
+## Real-world Examples
 
-**Spam Detection (Classification)**
-- Input: Email content, sender, subject line
-- Label: "Spam" or "Not Spam"
-- Training data: Millions of emails that users have manually marked as spam
-- Result: Gmail catches 99.9% of spam using supervised learning
+1. **Spam Detection (Classification)** — Gmail catches 99.9% of spam using supervised learning on millions of user-labeled emails.
 
-**House Price Prediction (Regression)**
-- Input: Square meters, number of rooms, location, building year
-- Label: Sale price in Euros
-- Training data: Historical property sales records
-- Result: ImmobilienScout24 and similar platforms use this for price estimates
+2. **House Price Prediction (Regression)** — ImmobilienScout24 and similar platforms estimate property values from historical sales records.
 
-**Medical Diagnosis**
-- Input: Patient symptoms, lab results, medical images
-- Label: Disease present or not
-- Training data: Historical patient records with confirmed diagnoses
-- Result: Models can detect certain cancers from X-rays with accuracy matching radiologists
+3. **Medical Diagnosis** — Models detect certain cancers from X-rays with accuracy matching radiologists, trained on labeled medical images.
 
 ## Interview Answer
 

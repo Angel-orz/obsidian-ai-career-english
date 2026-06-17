@@ -1,3 +1,9 @@
+---
+tags: [speaking, day-001, recording]
+topic: Supervised Learning
+duration: 1-2 minutes
+---
+
 # 🎙️ Speaking Task — Day 001
 
 ## Topic: Explain Supervised Learning to a Non-Technical Colleague
@@ -66,4 +72,4 @@ After self-evaluation, record again. Compare the two recordings.
 
 - Start with: *"Supervised learning is actually quite simple — it's like..."*
 - End with: *"So in short, the better our labeled data, the better our model will perform."*
-- If you get stuck, use the "buying time" phrases from today's meetings section
+- If you get stuck, use the [[Buying Time]] phrases

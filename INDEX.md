@@ -21,7 +21,7 @@
 
 | Day | Topic | Date | Category |
 |-----|-------|------|----------|
-| [001](day-001/) | Supervised Learning | 2026-06-17 | ML Foundations |
+| [001](day-001/07_daily_notes/Daily%20Notes%20Day%20001.md) | [[Supervised Learning]] | 2026-06-17 | ML Foundations |
 
 ---
 

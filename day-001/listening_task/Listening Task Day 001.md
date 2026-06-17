@@ -1,3 +1,8 @@
+---
+tags: [listening, day-001, andrew-ng]
+topic: Supervised Learning
+---
+
 # 🎧 Listening Task — Day 001
 
 ## Recommended Content
@@ -32,11 +37,11 @@
 
 | Term | Clue to listen for |
 |------|-------------------|
-| Training set | "the dataset used to train the model" |
-| Features | "input variables" or "attributes" |
+| [[Training Set]] | "the dataset used to train the model" |
+| [[Feature]] | "input variables" or "attributes" |
 | Labels | "the correct output" or "ground truth" |
 | Hypothesis | "the function that maps from x to y" |
-| Cost function | "measures how wrong the prediction is" |
+| [[Loss Function\|Cost function]] | "measures how wrong the prediction is" |
 
 ---
 
