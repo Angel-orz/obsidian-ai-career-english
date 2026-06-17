@@ -10,60 +10,78 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Days | 1 |
-| Total Topics | 1 |
-| Total Vocabulary Terms | 5 |
+| Sessions Completed | 1 |
+| Topics Covered | 1 |
+| Vocabulary Terms | 5 |
+| Interview Questions | 1 |
 | Started | 2026-06-17 |
 
 ---
 
-## 📅 Daily Learning Log
+## 📅 Session Log
 
-| Day | Topic | Date | Category |
-|-----|-------|------|----------|
-| [001](day-001/07_daily_notes/Daily%20Notes%20Day%20001.md) | [[Supervised Learning]] | 2026-06-17 | ML Foundations |
+| Date | Topic | Category | Daily Notes |
+|------|-------|----------|-------------|
+| 2026-06-17 | [[Supervised Learning]] | ML Foundations | [[Daily_Notes_0617]] |
 
 ---
 
-## 🗂️ Topic Categories
+## 📚 Cumulative Library Stats
 
-### ML Foundations (Days 1-3)
-- [x] Day 001: Supervised Learning
-- [ ] Day 002: Unsupervised Learning
-- [ ] Day 003: Classification & Regression
+| Collection | Count | Last Updated |
+|------------|-------|--------------|
+| Vocabulary Terms | 5 | 2026-06-17 |
+| Concepts | 1 | 2026-06-17 |
+| Meeting Phrase Files | 5 | 2026-06-17 |
+| Interview Questions | 1 | 2026-06-17 |
+| German AI Terms | 5 | 2026-06-17 |
+| German Meeting Phrases | 3 | 2026-06-17 |
 
-### Deep Learning Basics (Days 4-6)
-- [ ] Day 004: Neural Networks
-- [ ] Day 005: CNN
-- [ ] Day 006: RNN & Transformers Intro
+---
 
-### NLP & Transformers (Days 7-10)
-- [ ] Day 007: Transformer Architecture
-- [ ] Day 008: Embeddings
-- [ ] Day 009: Attention Mechanism
-- [ ] Day 010: Fine-tuning
+## 🗂️ Topic Trails
 
-### LLM & Advanced (Days 11-14)
-- [ ] Day 011: RAG
-- [ ] Day 012: Vector Database
-- [ ] Day 013: LLM Inference
-- [ ] Day 014: Model Evaluation
+### ML Foundations
+- [x] Supervised Learning (2026-06-17)
+- [ ] Unsupervised Learning
+- [ ] Classification & Regression
 
-### MLOps & Production (Days 15-20)
-- [ ] Day 015: Model Deployment
-- [ ] Day 016: ML Monitoring
-- [ ] Day 017: A/B Testing
-- [ ] Day 018: ML Pipelines
-- [ ] Day 019: Feature Engineering
-- [ ] Day 020: MLOps Best Practices
+### Deep Learning Basics
+- [ ] Neural Networks
+- [ ] CNN
+- [ ] RNN & Transformers Intro
+
+### NLP & Transformers
+- [ ] Transformer Architecture
+- [ ] Embeddings
+- [ ] Attention Mechanism
+- [ ] Fine-tuning
+
+### LLM & Advanced
+- [ ] RAG
+- [ ] Vector Database
+- [ ] LLM Inference
+- [ ] Model Evaluation
+
+### MLOps & Production
+- [ ] Model Deployment
+- [ ] ML Monitoring
+- [ ] A/B Testing
+- [ ] ML Pipelines
+- [ ] Feature Engineering
+- [ ] MLOps Best Practices
 
 ---
 
 ## 🔖 Quick Links
 
-- [Vocabulary Master List](vocabulary-master.md)
-- [Interview Question Bank](interview-bank.md)
-- [German Phrase Collection](german-phrases.md)
+- [Vocabulary Terms](AI-knowledge-cc/01_vocabulary/)
+- [Concepts](AI-knowledge-cc/02_concepts/)
+- [Speaking Exercises](AI-knowledge-cc/03_speaking/)
+- [Meeting Phrases](AI-knowledge-cc/04_meetings/)
+- [Interview Bank](AI-knowledge-cc/05_interview/)
+- [German Phrase Collection](AI-knowledge-cc/06_german_workplace/)
+- [Daily Notes](AI-knowledge-cc/07_daily_notes/)
 
 ---
 

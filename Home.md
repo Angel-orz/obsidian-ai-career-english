@@ -14,17 +14,17 @@ created: 2026-06-17
 
 ```dataview
 TABLE topic, date
-FROM "day-"
-SORT file.name DESC
+FROM "AI-knowledge-cc/07_daily_notes"
+SORT date DESC
 LIMIT 1
 ```
 
-## 📅 Recent Lessons
+## 📅 Recent Sessions
 
 ```dataview
 TABLE topic AS "Topic", date AS "Date"
-FROM "day-"
-SORT file.name DESC
+FROM "AI-knowledge-cc/07_daily_notes"
+SORT date DESC
 LIMIT 7
 ```
 
@@ -34,11 +34,12 @@ LIMIT 7
 
 | Section | Link |
 |---------|------|
-| 📅 Today's Lesson | [[day-001/07_daily_notes\|Daily Notes]] |
-| 📝 Vocabulary Master | [[vocabulary-master]] |
-| 🎤 Interview Bank | [[interview-bank]] |
-| 🇩🇪 German Phrases | [[german-phrases]] |
-| 📚 All Lessons | [[INDEX]] |
+| 📅 Today's Lesson | [[Daily_Notes_0617\|Daily Notes]] |
+| 📝 Vocabulary | [[AI-knowledge-cc/01_vocabulary/]] |
+| 💡 Concepts | [[AI-knowledge-cc/02_concepts/]] |
+| 🎤 Interview Bank | [[AI-knowledge-cc/05_interview/]] |
+| 🇩🇪 German Phrases | [[AI-knowledge-cc/06_german_workplace/]] |
+| 📚 All Sessions | [[INDEX]] |
 
 ---
 
@@ -46,14 +47,19 @@ LIMIT 7
 
 > Review schedule: Day+1, Day+3, Day+7, Day+14
 
-- [ ] Day 001: Supervised Learning ⏳ review today (Day+0)
+- [ ] Supervised Learning — review today (2026-06-17)
+- [ ] [[Labeled Data]] — review today
+- [ ] [[Training Set]] — review today
+- [ ] [[Feature]] — review today
+- [ ] [[Loss Function]] — review today
+- [ ] [[Overfitting]] — review today
 
 ---
 
 ## 📈 Weekly Stats
 
-| Week | Days Completed | Topics | Vocab |
-|------|---------------|--------|-------|
+| Week | Sessions | Topics | Vocab |
+|------|----------|--------|-------|
 | Week 1 | 1/7 | Supervised Learning | 5 |
 
 ---
