@@ -1,13 +1,18 @@
 {
+  "promptDelete": false,
+  "attachmentFolderPath": "assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "inbox",
-  "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
   "showLineNumber": false,
   "readableLineLength": true,
   "spellcheck": true,
-  "spellcheckLanguages": ["en-US", "de", "zh"],
+  "spellcheckLanguages": [
+    "en-US",
+    "de",
+    "zh"
+  ],
   "defaultViewMode": "reading",
   "livePreview": true
 }

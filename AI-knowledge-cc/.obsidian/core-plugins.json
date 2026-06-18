@@ -1,10 +1,4 @@
 {
-  "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "de"
-  ],
-  "spellcheckDictionary": [],
   "file-explorer": true,
   "global-search": true,
   "switcher": true,
@@ -34,6 +28,5 @@
   "file-recovery": true,
   "publish": false,
   "sync": true,
-  "bases": true,
-  "webviewer": false
+  "bases": true
 }

@@ -1,0 +1,3 @@
+ Q："Walk me through how you would approach a new dataset."
+
+A："First, I check the shape and data types. Then I do a missing value analysis — how much data is missing, and is it missing at random or systematically? Next, I explore the target variable distribution and feature-target relationships using visualizations. I look for correlations and create derived features where domain knowledge suggests they'd help. Finally, I ensure the preprocessing pipeline is reproducible — no data leakage between train and test. I documented this approach in my Titanic EDA project."
