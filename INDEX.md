@@ -10,9 +10,9 @@
 
 | Metric | Count |
 |--------|-------|
-| Sessions Completed | 2 |
-| Topics Covered | 2 |
-| Vocabulary Terms | 10 |
+| Sessions Completed | 3 |
+| Topics Covered | 3 |
+| Vocabulary Terms | 15 |
 | Started | 2026-06-17 |
 
 ---
@@ -21,6 +21,7 @@
 
 | Date | Topic | Category | Daily Notes |
 |------|-------|----------|-------------|
+| 2026-06-19 | [[Classification & Regression]] | ML Foundations | [[Classification & Regression]] (07_daily_notes) |
 | 2026-06-18 | [[Unsupervised Learning]] | ML Foundations | [[Unsupervised Learning]] (07_daily_notes) |
 | 2026-06-17 | [[Supervised Learning]] | ML Foundations | [[Supervised Learning]] (07_daily_notes) |
 
@@ -30,15 +31,15 @@
 
 | Folder | Files | Description |
 |--------|-------|-------------|
-| 01_vocabulary | 10 | One file per word |
-| 02_concepts | 2 | One file per concept |
-| 03_speaking | 2 | One file per topic |
-| 04_meetings | 2 | One file per topic |
-| 05_interview | 2 | One file per topic |
-| 06_german_workplace | 2 | One file per topic |
-| 07_daily_notes | 2 | One file per topic |
-| listening_task | 2 | One file per topic |
-| speaking_task | 2 | One file per topic |
+| 01_vocabulary | 15 | One file per word |
+| 02_concepts | 3 | One file per concept |
+| 03_speaking | 3 | One file per topic |
+| 04_meetings | 3 | One file per topic |
+| 05_interview | 3 | One file per topic |
+| 06_german_workplace | 3 | One file per topic |
+| 07_daily_notes | 3 | One file per topic |
+| listening_task | 3 | One file per topic |
+| speaking_task | 3 | One file per topic |
 
 ---
 
@@ -47,7 +48,7 @@
 ### ML Foundations
 - [x] Supervised Learning (2026-06-17)
 - [x] Unsupervised Learning (2026-06-18)
-- [ ] Classification & Regression
+- [x] Classification & Regression (2026-06-19)
 
 ### Deep Learning Basics
 - [ ] Neural Networks
@@ -90,4 +91,4 @@
 
 ---
 
-*Last updated: 2026-06-18*
+*Last updated: 2026-06-19*

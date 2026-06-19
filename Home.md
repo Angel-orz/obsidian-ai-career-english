@@ -36,13 +36,13 @@ LIMIT 7
 |---------|------|
 | 📝 Vocabulary | [[AI-knowledge-cc/01_vocabulary/]] |
 | 💡 Concepts | [[AI-knowledge-cc/02_concepts/]] |
-| 🗣️ Speaking | [[AI-knowledge-cc/03_speaking/Unsupervised Learning\|Unsupervised Learning]] |
-| 💼 Meetings | [[AI-knowledge-cc/04_meetings/Unsupervised Learning\|Unsupervised Learning]] |
-| 🎤 Interview | [[AI-knowledge-cc/05_interview/Unsupervised Learning\|Unsupervised Learning]] |
-| 🇩🇪 German | [[AI-knowledge-cc/06_german_workplace/Unsupervised Learning\|Unsupervised Learning]] |
-| 📅 Daily Notes | [[AI-knowledge-cc/07_daily_notes/Unsupervised Learning\|Unsupervised Learning]] |
-| 🎧 Listening | [[AI-knowledge-cc/listening_task/Unsupervised Learning\|Unsupervised Learning]] |
-| 🎙️ Speaking Task | [[AI-knowledge-cc/speaking_task/Unsupervised Learning\|Unsupervised Learning]] |
+| 🗣️ Speaking | [[AI-knowledge-cc/03_speaking/Classification & Regression\|Classification & Regression]] |
+| 💼 Meetings | [[AI-knowledge-cc/04_meetings/Classification & Regression\|Classification & Regression]] |
+| 🎤 Interview | [[AI-knowledge-cc/05_interview/Classification & Regression\|Classification & Regression]] |
+| 🇩🇪 German | [[AI-knowledge-cc/06_german_workplace/Classification & Regression\|Classification & Regression]] |
+| 📅 Daily Notes | [[AI-knowledge-cc/07_daily_notes/Classification & Regression\|Classification & Regression]] |
+| 🎧 Listening | [[AI-knowledge-cc/listening_task/Classification & Regression\|Classification & Regression]] |
+| 🎙️ Speaking Task | [[AI-knowledge-cc/speaking_task/Classification & Regression\|Classification & Regression]] |
 | 📚 All Sessions | [[INDEX]] |
 
 ---
@@ -51,9 +51,12 @@ LIMIT 7
 
 > Review schedule: Day+1, Day+3, Day+7, Day+14
 
-- [ ] [[Supervised Learning]] — ⏳ review today (Day+1)
+- [ ] [[Classification & Regression]] — ⏳ review tomorrow (Day+1)
+- [ ] [[Unsupervised Learning]] — ⏳ review today (Day+1)
+- [ ] [[Classification]], [[Regression]], [[Decision Boundary]], [[Confusion Matrix]], [[Logistic Regression]] — Day 3 active
+- [ ] [[Supervised Learning]] — ⏳ review in 1 day (Day+3 from Jun 17)
+- [ ] [[Clustering]], [[K-Means]], [[Dimensionality Reduction]], [[Unlabeled Data]], [[Anomaly Detection]] — Day 2 review
 - [ ] [[Labeled Data]], [[Training Set]], [[Feature]], [[Loss Function]], [[Overfitting]] — Day 1 review
-- [ ] [[Clustering]], [[K-Means]], [[Dimensionality Reduction]], [[Unlabeled Data]], [[Anomaly Detection]] — Day 2 active
 
 ---
 
@@ -61,7 +64,7 @@ LIMIT 7
 
 | Week | Sessions | Topics | Vocab |
 |------|----------|--------|-------|
-| Week 1 | 2/7 | Supervised Learning, Unsupervised Learning | 10 |
+| Week 1 | 3/7 | Supervised Learning, Unsupervised Learning, Classification & Regression | 15 |
 
 ---
 
@@ -74,4 +77,4 @@ LIMIT 7
 
 ---
 
-*Last updated: 2026-06-18*
+*Last updated: 2026-06-19*
