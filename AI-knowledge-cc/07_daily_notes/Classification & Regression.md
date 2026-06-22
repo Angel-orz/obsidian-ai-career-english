@@ -14,13 +14,13 @@ date: 2026-06-19
 - [ ] [[Logistic Regression]]
 
 ## Concepts Learned
-| Concept | Understanding (1-5) | Notes |
-|---------|---------------------|-------|
-| Classification vs Regression distinction | 4 | Clear rule: "which one?" vs "how much?" |
-| Classification workflow | 4 | Binary vs multi-class, algorithm selection, evaluation with confusion matrix |
-| Regression workflow | 4 | Linear baseline, tree-based methods, error metrics (MSE/MAE/RMSE) |
-| Decision boundaries | 3 | Linear vs non-linear boundaries; need more intuition on SVM kernels |
-| Logistic regression mechanics | 4 | Sigmoid function, probability calibration, threshold tuning |
+| Concept                                  | Understanding (1-5) | Notes                                                                        |
+| ---------------------------------------- | ------------------- | ---------------------------------------------------------------------------- |
+| Classification vs Regression distinction | 4                   | Clear rule: "which one?" vs "how much?"                                      |
+| Classification workflow                  | 4                   | Binary vs multi-class, algorithm selection, evaluation with confusion matrix |
+| Regression workflow                      | 4                   | Linear baseline, tree-based methods, error metrics (MSE/MAE/RMSE)            |
+| Decision boundaries                      | 3                   | Linear vs non-linear boundaries; need more intuition on SVM kernels          |
+| Logistic regression mechanics            | 4                   | Sigmoid function, probability calibration, threshold tuning                  |
 
 ## Listening Practice
 | Source | Topic | Duration | Key Takeaways |

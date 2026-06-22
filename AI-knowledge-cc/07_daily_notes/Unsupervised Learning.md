@@ -41,11 +41,11 @@ date: 2026-06-18
 
 ### 🇩🇪 German Practice
 
-| Exercise | Completed | Notes |
-|----------|-----------|-------|
-| [[Unsupervised Learning]] (06_german_workplace — AI Terms) | ⬜ | |
-| [[Unsupervised Learning]] (06_german_workplace — Meeting Phrases) | ⬜ | |
-| [[Unsupervised Learning]] (06_german_workplace — Scenario) | ⬜ | |
+| Exercise                                                          | Completed | Notes |
+| ----------------------------------------------------------------- | --------- | ----- |
+| [[Unsupervised Learning]] (06_german_workplace — AI Terms)        | ⬜         |       |
+| [[Unsupervised Learning]] (06_german_workplace — Meeting Phrases) | ⬜         |       |
+| [[Unsupervised Learning]] (06_german_workplace — Scenario)        | ⬜         |       |
 
 ### ⚠️ Difficulties
 
