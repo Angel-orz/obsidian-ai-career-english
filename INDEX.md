@@ -10,9 +10,9 @@
 
 | Metric | Count |
 |--------|-------|
-| Sessions Completed | 4 |
-| Topics Covered | 4 |
-| Vocabulary Terms | 20 |
+| Sessions Completed | 5 |
+| Topics Covered | 5 |
+| Vocabulary Terms | 25 |
 | Started | 2026-06-17 |
 
 ---
@@ -21,6 +21,7 @@
 
 | Date | Topic | Category | Daily Notes |
 |------|-------|----------|-------------|
+| 2026-07-08 | [[CNN]] | Deep Learning Basics | [[CNN]] (07_daily_notes) |
 | 2026-06-20 | [[Neural Networks]] | Deep Learning Basics | [[Neural Networks]] (07_daily_notes) |
 | 2026-06-19 | [[Classification & Regression]] | ML Foundations | [[Classification & Regression]] (07_daily_notes) |
 | 2026-06-18 | [[Unsupervised Learning]] | ML Foundations | [[Unsupervised Learning]] (07_daily_notes) |
@@ -32,15 +33,15 @@
 
 | Folder | Files | Description |
 |--------|-------|-------------|
-| 01_vocabulary | 20 | One file per word |
-| 02_concepts | 4 | One file per concept |
-| 03_speaking | 4 | One file per topic |
-| 04_meetings | 4 | One file per topic |
-| 05_interview | 4 | One file per topic |
-| 06_german_workplace | 4 | One file per topic |
-| 07_daily_notes | 4 | One file per topic |
-| listening_task | 4 | One file per topic |
-| speaking_task | 4 | One file per topic |
+| 01_vocabulary | 25 | One file per word |
+| 02_concepts | 5 | One file per concept |
+| 03_speaking | 5 | One file per topic |
+| 04_meetings | 5 | One file per topic |
+| 05_interview | 5 | One file per topic |
+| 06_german_workplace | 5 | One file per topic |
+| 07_daily_notes | 5 | One file per topic |
+| listening_task | 5 | One file per topic |
+| speaking_task | 5 | One file per topic |
 
 ---
 
@@ -53,7 +54,7 @@
 
 ### Deep Learning Basics
 - [x] Neural Networks (2026-06-20)
-- [ ] CNN
+- [x] CNN (2026-07-08)
 - [ ] RNN & Transformers Intro
 
 ### NLP & Transformers
@@ -92,4 +93,4 @@
 
 ---
 
-*Last updated: 2026-06-20*
+*Last updated: 2026-07-08*

@@ -36,13 +36,13 @@ LIMIT 7
 |---------|------|
 | 📝 Vocabulary | [[AI-knowledge-cc/01_vocabulary/]] |
 | 💡 Concepts | [[AI-knowledge-cc/02_concepts/]] |
-| 🗣️ Speaking | [[AI-knowledge-cc/03_speaking/Neural Networks\|Neural Networks]] |
-| 💼 Meetings | [[AI-knowledge-cc/04_meetings/Neural Networks\|Neural Networks]] |
-| 🎤 Interview | [[AI-knowledge-cc/05_interview/Neural Networks\|Neural Networks]] |
-| 🇩🇪 German | [[AI-knowledge-cc/06_german_workplace/Neural Networks\|Neural Networks]] |
-| 📅 Daily Notes | [[AI-knowledge-cc/07_daily_notes/Neural Networks\|Neural Networks]] |
-| 🎧 Listening | [[AI-knowledge-cc/listening_task/Neural Networks\|Neural Networks]] |
-| 🎙️ Speaking Task | [[AI-knowledge-cc/speaking_task/Neural Networks\|Neural Networks]] |
+| 🗣️ Speaking | [[AI-knowledge-cc/03_speaking/CNN\|CNN]] |
+| 💼 Meetings | [[AI-knowledge-cc/04_meetings/CNN\|CNN]] |
+| 🎤 Interview | [[AI-knowledge-cc/05_interview/CNN\|CNN]] |
+| 🇩🇪 German | [[AI-knowledge-cc/06_german_workplace/CNN\|CNN]] |
+| 📅 Daily Notes | [[AI-knowledge-cc/07_daily_notes/CNN\|CNN]] |
+| 🎧 Listening | [[AI-knowledge-cc/listening_task/CNN\|CNN]] |
+| 🎙️ Speaking Task | [[AI-knowledge-cc/speaking_task/CNN\|CNN]] |
 | 📚 All Sessions | [[INDEX]] |
 
 ---
@@ -51,10 +51,9 @@ LIMIT 7
 
 > Review schedule: Day+1, Day+3, Day+7, Day+14
 
-- [ ] [[Neural Networks]] — ⏳ review tomorrow (Day+1)
-- [ ] [[Classification & Regression]] — ⏳ review in 1 day (Day+3 from Jun 19)
-- [ ] [[Neuron]], [[Activation Function]], [[Hidden Layer]], [[Backpropagation]], [[Weights]] — Day 4 active
-- [ ] [[Classification]], [[Regression]], [[Decision Boundary]], [[Confusion Matrix]], [[Logistic Regression]] — Day 3 review
+- [ ] [[CNN]] — ⏳ review tomorrow (Day+1)
+- [ ] [[Convolution]], [[Kernel]], [[Feature Map]], [[Pooling]], [[Stride]] — Day 5 active
+- [ ] [[Neuron]], [[Activation Function]], [[Hidden Layer]], [[Backpropagation]], [[Weights]] — Day 4 review
 
 ---
 
@@ -62,7 +61,7 @@ LIMIT 7
 
 | Week | Sessions | Topics | Vocab |
 |------|----------|--------|-------|
-| Week 1 | 4/7 | Supervised Learning, Unsupervised Learning, Classification & Regression, Neural Networks | 20 |
+| Week 1 | 5/7 | Supervised Learning ... Neural Networks, CNN | 25 |
 
 ---
 
@@ -75,4 +74,4 @@ LIMIT 7
 
 ---
 
-*Last updated: 2026-06-20*
+*Last updated: 2026-07-08*
