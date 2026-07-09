@@ -10,9 +10,9 @@
 
 | Metric | Count |
 |--------|-------|
-| Sessions Completed | 5 |
-| Topics Covered | 5 |
-| Vocabulary Terms | 25 |
+| Sessions Completed | 6 |
+| Topics Covered | 6 |
+| Vocabulary Terms | 28 |
 | Started | 2026-06-17 |
 
 ---
@@ -21,6 +21,7 @@
 
 | Date | Topic | Category | Daily Notes |
 |------|-------|----------|-------------|
+| 2026-07-09 | [[RNN & Transformers Intro]] | Deep Learning Basics | [[RNN & Transformers Intro]] (daily-practice) |
 | 2026-07-08 | [[CNN]] | Deep Learning Basics | [[CNN]] (07_daily_notes) |
 | 2026-06-20 | [[Neural Networks]] | Deep Learning Basics | [[Neural Networks]] (07_daily_notes) |
 | 2026-06-19 | [[Classification & Regression]] | ML Foundations | [[Classification & Regression]] (07_daily_notes) |
@@ -33,15 +34,10 @@
 
 | Folder | Files | Description |
 |--------|-------|-------------|
-| 01_vocabulary | 25 | One file per word |
-| 02_concepts | 5 | One file per concept |
-| 03_speaking | 5 | One file per topic |
-| 04_meetings | 5 | One file per topic |
-| 05_interview | 5 | One file per topic |
-| 06_german_workplace | 5 | One file per topic |
-| 07_daily_notes | 5 | One file per topic |
-| listening_task | 5 | One file per topic |
-| speaking_task | 5 | One file per topic |
+| 01_vocabulary | 28 | One file per word |
+| daily-practice | 1 | One practice card per topic |
+| 02_concepts | 5 | [legacy] One file per concept |
+| 03-07 + tasks | 5 each | [legacy] Topic files from old format |
 
 ---
 
@@ -55,7 +51,7 @@
 ### Deep Learning Basics
 - [x] Neural Networks (2026-06-20)
 - [x] CNN (2026-07-08)
-- [ ] RNN & Transformers Intro
+- [x] RNN & Transformers Intro (2026-07-09)
 
 ### NLP & Transformers
 - [ ] Transformer Architecture
@@ -93,4 +89,4 @@
 
 ---
 
-*Last updated: 2026-07-08*
+*Last updated: 2026-07-09*
