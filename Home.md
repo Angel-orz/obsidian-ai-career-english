@@ -36,8 +36,8 @@ LIMIT 7
 |---------|------|
 | 📝 Vocabulary | [[AI-knowledge-cc/01_vocabulary/]] |
 | 💡 Concepts | [[AI-knowledge-cc/02_concepts/]] |
-| 📝 Daily Practice | [[AI-knowledge-cc/daily-practice/RNN & Transformers Intro\|RNN & Transformers Intro]] |
-| 📖 Vocabulary | [[AI-knowledge-cc/01_vocabulary/]] (28 words) |
+| 📝 Daily Practice | [[AI-knowledge-cc/daily-practice/Attention Mechanism\|Attention Mechanism]] |
+| 📖 Vocabulary | [[AI-knowledge-cc/01_vocabulary/]] (37 words) |
 | 🗂️ All Sessions | [[INDEX]] |
 | 📚 All Sessions | [[INDEX]] |
 
@@ -47,9 +47,9 @@ LIMIT 7
 
 > Review schedule: Day+1, Day+3, Day+7, Day+14
 
-- [ ] [[RNN & Transformers Intro]] — ⏳ review tomorrow (Day+1)
-- [ ] [[Sequential Data]], [[Hidden State]], [[Self-Attention]] — Day 6 active
-- [ ] [[Convolution]], [[Kernel]], [[Pooling]] — Day 5 review
+- [ ] [[Attention Mechanism]] — ⏳ review tomorrow (Day+1)
+- [ ] [[Query-Key-Value]], [[Multi-Head Attention]], [[Attention Mechanism]] — Day 9 active
+- [ ] [[Embedding]], [[Word2Vec]], [[Tokenization]] — Day 8 review
 
 ---
 
@@ -57,7 +57,7 @@ LIMIT 7
 
 | Week | Sessions | Topics | Vocab |
 |------|----------|--------|-------|
-| Sessions | 6 | Latest: RNN & Transformers Intro (Jul 9) | 28 vocab |
+| Sessions | 9 | Latest: Attention Mechanism (Jul 12) | 37 vocab |
 
 ---
 
@@ -70,4 +70,4 @@ LIMIT 7
 
 ---
 
-*Last updated: 2026-07-09*
+*Last updated: 2026-07-12*
